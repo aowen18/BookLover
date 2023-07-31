@@ -1,1 +1,1 @@
-from BookLover.BookLover_pkg import booklover
+from BookLover import booklover
