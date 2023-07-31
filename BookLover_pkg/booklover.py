@@ -5,12 +5,12 @@ Created on Fri Jul 28 09:16:44 2023
 
 @author: alexaowen
 """
-
 import pandas as pd
+
 
 class BookLover():
     """
-    class that contains infomation on the name, and number of books a person has read
+    class that contains information on the name, and number of books a person has read
     """
     
     def __init__(self, name= '', email='', fav_genre='', num_books = 0, book_list = pd.DataFrame({'book_name':[], 'book_rating':[]})):
