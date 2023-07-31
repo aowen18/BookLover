@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='BookLover',
+    name='booklover',
     version='1.0.0',
     url='https://github.com/aowen18/booklover/tree/main',
     author='Alexa Owen',
